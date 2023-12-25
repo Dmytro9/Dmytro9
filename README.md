@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### ⚡️ Tech
-https://camo.githubusercontent.com/4de13f63f9737ce6c7a7c6805e71b4e87ac741df4b5fa388d1ed4d2bab4867d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c6174266c6f676f3d7265616374
+### ⚡️ Tech
+<img src="https://camo.githubusercontent.com/4de13f63f9737ce6c7a7c6805e71b4e87ac741df4b5fa388d1ed4d2bab4867d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c6174266c6f676f3d7265616374" />
 
 <!--
 **Dmytro Poliuliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
