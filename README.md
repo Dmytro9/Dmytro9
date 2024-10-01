@@ -1,6 +1,5 @@
-Hi there 👋
+## Hi there 👋
 
-### My stack and tools :
 
 ![image](https://github.com/user-attachments/assets/852733c4-1061-4a91-8660-fa152f09978d)
 ![image](https://github.com/user-attachments/assets/d06228ad-1a76-4d0b-9204-4f78f1938db3)
